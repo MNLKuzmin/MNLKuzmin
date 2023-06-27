@@ -3,7 +3,7 @@ I am a data scientist with a background in physics and managerial experience in 
 
 👩‍💻
 
-🔬🔭
+🔍🔭
 🩺
 
 🧡
@@ -14,23 +14,21 @@ I am a data scientist with a background in physics and managerial experience in 
 🎨
 
 
-
-
-
-
 In my free time...
 I am originally from 🇮🇹 moved to 🇺🇸 about 8 years ago,
 native italian speaker, fluent in english and trying to learn Spanish and Russian (thanks to ![duo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white))
 <br>I like to keep my work notes organized using ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## Connect with me at:
 
-![linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
- 
+## My blog posts:
+📊 [A defense of those poor outliers...](https://dev.to/mnlkuzmin/a-defense-of-those-poor-outliers-4a8d)
+
+⏦ [Use of Ploynomials in Linear Regression Analysis](https://dev.to/mnlkuzmin/use-of-polynomials-in-linear-regression-analysis-extension-to-linear-models-2636)
+
+🔬 [Explainability in Black-box models with LIME and activation layers](https://dev.to/mnlkuzmin/skin-cancer-detection-with-convolutional-neural-networks-3mh1)
+
+💻 [My experience at Flatiron School](https://dev.to/mnlkuzmin/my-experience-at-flatiron-school-4gj)
 
 ## Technology Stack:
 
@@ -46,7 +44,12 @@ native italian speaker, fluent in english and trying to learn Spanish and Russia
 ![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+## Connect with me via:
 
+![linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
  
