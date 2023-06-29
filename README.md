@@ -3,25 +3,13 @@
 
 ### Hi there I'm Maria 👋
 I am a data scientist with a background in physics and managerial experience in healthcare
+👩‍💻 I bring to the table expertise in Python, Statistical Analysis, Machine Learning and Deep Learning. 
 
-👩‍💻
-
-🔍🔭
-🩺
-
-🧡
-
-🪴🏕
-
-🤿🐠
-🎨
-
-
-In my free time...
-I am originally from 🇮🇹 moved to 🇺🇸 about 8 years ago,
-native italian speaker, fluent in english and trying to learn Spanish and Russian (thanks to ![duo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white))
-<br>I like to keep my work notes organized using ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
+#### 🧡 I love 
+<br> 🔍🔭 to explore and learn from real world data, and anything that has to do with science and discovery interests me.
+<br>🩺 In particular I would like to develop tools for healthcare, to improve the precision of tests, and therefore the level of care given to patients.
+<br>nature, the outdoors, 🏕 camping, 🪴 my plants, 🤿🐠 swimming, snorkeling, scuba, ⛵️ sailing and chilling on the beach 🏖
+<br>🍳I also love to cook and im my spare time I'm trying to learn Spanish and Russian (thanks to ![duo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white))
 
 
 ## My blog posts:
@@ -31,9 +19,9 @@ native italian speaker, fluent in english and trying to learn Spanish and Russia
 
 🔬 [Explainability in Black-box models with LIME and activation layers](https://dev.to/mnlkuzmin/skin-cancer-detection-with-convolutional-neural-networks-3mh1)
 
-💻 [My experience at Flatiron School](https://dev.to/mnlkuzmin/my-experience-at-flatiron-school-4gj)
+👩🏼‍🎓 [My experience at Flatiron School](https://dev.to/mnlkuzmin/my-experience-at-flatiron-school-4gj)
 
-## Technology Stack:
+## 💻Technology Stack:
 
 ![python](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -46,8 +34,10 @@ native italian speaker, fluent in english and trying to learn Spanish and Russia
 ![jupy](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## Books that I'm reading:
+
+## 📚 Books that I'm reading:
 
 <img width="122" alt="Screen Shot 2023-06-27 at 6 07 33 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/76831f54-3488-42b3-be28-0311a371b1f2">
 <img width="122" alt="Screen Shot 2023-06-27 at 6 08 26 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/7e3e0a0a-b2d4-4adb-a6cd-3db9d1f44b40">
