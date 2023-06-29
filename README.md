@@ -1,7 +1,7 @@
 <img width="1129" alt="Screen Shot 2023-06-27 at 5 52 00 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/1baf478b-8d29-41d8-aad1-4585965da603">
 
-### Hi there I'm Maria 👋
-<br>I am a data scientist with a background in physics and managerial experience in healthcare
+### Hi there! I'm Maria 👋
+I am a data scientist with a background in physics and managerial experience in healthcare
 <br>👩‍💻 I bring to the table expertise in Python, Statistical Analysis, Machine Learning and Deep Learning. 
 <br>
 <br>
@@ -9,11 +9,11 @@
 #### 🧡 I love...
 🔍 to explore and learn from real world data, and anything that has to do with science and discovery interests me.
 <br>🩺 In particular I would like to develop tools for healthcare, to improve the precision of tests, and therefore the level of care given to patients.
-<br>I love nature, the outdoors, 🏕 camping, 🪴 my plants, 🤿🐠 swimming, snorkeling, scuba, ⛵️ sailing and chilling on the beach 🏖
-<br>🍳I also love to cook and in my spare time I'm trying to learn Spanish and Russian (thanks to ![duo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white))
+<br>I love nature, the outdoors, 🏕 camping, 🪴 my plants, 🤿🐠 swimming, snorkelling, scuba, ⛵️ sailing and chilling on the beach 🏖
+<br>🍳I also love to cook and in my spare time I draw and I'm trying to learn Spanish
+ (thanks to ![duo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white))
 <br>
-
- <br>
+<br>
  
 ## Check out my blog posts:
 📊 [A defense of those poor outliers...](https://dev.to/mnlkuzmin/a-defense-of-those-poor-outliers-4a8d)
@@ -24,7 +24,6 @@
 
 👩🏼‍🎓 [My experience at Flatiron School](https://dev.to/mnlkuzmin/my-experience-at-flatiron-school-4gj)
 <br>
-
 <br>
 
 ## My projects:
@@ -34,9 +33,7 @@
 🔋 [US Energy Generation](https://github.com/MNLKuzmin/USEnergy_Generation)
 
 🦠 [Covid-19 hospitalization predictor](https://github.com/MNLKuzmin/Covid-19-Hospitalization-Predictor)
-
 <br>
-
 <br>
 
 ## 💻Technology Stack:
@@ -47,6 +44,7 @@
 ![scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+
 ![tensor](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![SQ](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![jupy](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -56,15 +54,14 @@
 <br>
 <br>
 
-
 ## 📚 Books that I'm reading:
 
-<img width="122" alt="Screen Shot 2023-06-27 at 6 07 33 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/76831f54-3488-42b3-be28-0311a371b1f2">
-<img width="122" alt="Screen Shot 2023-06-27 at 6 08 26 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/7e3e0a0a-b2d4-4adb-a6cd-3db9d1f44b40">
-<img width="122" alt="Screen Shot 2023-06-27 at 6 07 03 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/35263eb6-03a9-4cc1-a136-83fd815031a8">
-<img width="122" alt="Screen Shot 2023-06-27 at 6 09 22 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/b8071040-5cb8-477c-bb50-6cea9ae59cec">
-<img width="122" alt="Screen Shot 2023-06-27 at 6 10 00 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/cb5cfbdd-e031-4e0a-9d6f-1ffa80d5a2c2">
-<img width="122" alt="Screen Shot 2023-06-27 at 6 18 18 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/8882de04-5713-47c3-a1e5-9094fffe1837">
+<img width="100" alt="Screen Shot 2023-06-27 at 6 07 33 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/76831f54-3488-42b3-be28-0311a371b1f2">
+<img width="100" alt="Screen Shot 2023-06-27 at 6 08 26 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/7e3e0a0a-b2d4-4adb-a6cd-3db9d1f44b40">
+<img width="100" alt="Screen Shot 2023-06-27 at 6 07 03 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/35263eb6-03a9-4cc1-a136-83fd815031a8">
+<img width="100" alt="Screen Shot 2023-06-27 at 6 09 22 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/b8071040-5cb8-477c-bb50-6cea9ae59cec">
+<img width="100" alt="Screen Shot 2023-06-27 at 6 10 00 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/cb5cfbdd-e031-4e0a-9d6f-1ffa80d5a2c2">
+<img width="100" alt="Screen Shot 2023-06-27 at 6 18 18 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/8882de04-5713-47c3-a1e5-9094fffe1837">
 <br>
 <br>
 
