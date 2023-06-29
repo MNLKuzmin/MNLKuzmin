@@ -3,7 +3,7 @@
 ### Hi there! I'm Maria 👋
 I am a data scientist with a background in physics and managerial experience in healthcare
 <br>👩‍💻 I bring to the table expertise in Python, Statistical Analysis, Machine Learning and Deep Learning. 
-<br>
+<br>I am originally from Italy 🇮🇹 and moved to the United States 🇺🇸 about 8 years ago
 <br>
  
 #### 🧡 I love...
