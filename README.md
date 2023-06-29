@@ -1,18 +1,21 @@
 <img width="1129" alt="Screen Shot 2023-06-27 at 5 52 00 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/1baf478b-8d29-41d8-aad1-4585965da603">
 
-
 ### Hi there I'm Maria 👋
-I am a data scientist with a background in physics and managerial experience in healthcare
-👩‍💻 I bring to the table expertise in Python, Statistical Analysis, Machine Learning and Deep Learning. 
-
-#### 🧡 I love 
-<br> 🔍🔭 to explore and learn from real world data, and anything that has to do with science and discovery interests me.
+<br>I am a data scientist with a background in physics and managerial experience in healthcare
+<br>👩‍💻 I bring to the table expertise in Python, Statistical Analysis, Machine Learning and Deep Learning. 
+<br>
+<br>
+ 
+#### 🧡 I love...
+🔍 to explore and learn from real world data, and anything that has to do with science and discovery interests me.
 <br>🩺 In particular I would like to develop tools for healthcare, to improve the precision of tests, and therefore the level of care given to patients.
-<br>nature, the outdoors, 🏕 camping, 🪴 my plants, 🤿🐠 swimming, snorkeling, scuba, ⛵️ sailing and chilling on the beach 🏖
-<br>🍳I also love to cook and im my spare time I'm trying to learn Spanish and Russian (thanks to ![duo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white))
+<br>I love nature, the outdoors, 🏕 camping, 🪴 my plants, 🤿🐠 swimming, snorkeling, scuba, ⛵️ sailing and chilling on the beach 🏖
+<br>🍳I also love to cook and in my spare time I'm trying to learn Spanish and Russian (thanks to ![duo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white))
+<br>
 
-
-## My blog posts:
+ <br>
+ 
+## Check out my blog posts:
 📊 [A defense of those poor outliers...](https://dev.to/mnlkuzmin/a-defense-of-those-poor-outliers-4a8d)
 
 ⏦ [Use of Ploynomials in Linear Regression Analysis](https://dev.to/mnlkuzmin/use-of-polynomials-in-linear-regression-analysis-extension-to-linear-models-2636)
@@ -20,6 +23,21 @@ I am a data scientist with a background in physics and managerial experience in 
 🔬 [Explainability in Black-box models with LIME and activation layers](https://dev.to/mnlkuzmin/skin-cancer-detection-with-convolutional-neural-networks-3mh1)
 
 👩🏼‍🎓 [My experience at Flatiron School](https://dev.to/mnlkuzmin/my-experience-at-flatiron-school-4gj)
+<br>
+
+<br>
+
+## My projects:
+
+🔬 [Skin Cancer Detection](https://github.com/MNLKuzmin/SkinCancerDetection)
+
+🔋 [US Energy Generation](https://github.com/MNLKuzmin/USEnergy_Generation)
+
+🦠 [Covid-19 hospitalization predictor](https://github.com/MNLKuzmin/Covid-19-Hospitalization-Predictor)
+
+<br>
+
+<br>
 
 ## 💻Technology Stack:
 
@@ -35,6 +53,8 @@ I am a data scientist with a background in physics and managerial experience in 
 ![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<br>
+<br>
 
 
 ## 📚 Books that I'm reading:
@@ -45,7 +65,8 @@ I am a data scientist with a background in physics and managerial experience in 
 <img width="122" alt="Screen Shot 2023-06-27 at 6 09 22 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/b8071040-5cb8-477c-bb50-6cea9ae59cec">
 <img width="122" alt="Screen Shot 2023-06-27 at 6 10 00 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/cb5cfbdd-e031-4e0a-9d6f-1ffa80d5a2c2">
 <img width="122" alt="Screen Shot 2023-06-27 at 6 18 18 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/8882de04-5713-47c3-a1e5-9094fffe1837">
-
+<br>
+<br>
 
 ## Connect with me via:
 
@@ -53,8 +74,6 @@ I am a data scientist with a background in physics and managerial experience in 
 ![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-
  
 <!--
 **MNLKuzmin/MNLKuzmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
