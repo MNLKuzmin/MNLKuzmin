@@ -7,7 +7,7 @@ I am a data scientist with a background in physics and managerial experience in 
 <br>
  
 #### 🧡 I love...
-🔍 to explore and learn from real world data, and anything that has to do with science and discovery interests me.
+🔍 to explore and learn from real world data, and anything that has to do with science and nature interests me.
 <br>🩺 In particular I would like to develop tools for healthcare, to improve the precision of tests, and therefore the level of care given to patients.
 <br>I love nature, the outdoors, 🏕 camping, 🪴 my plants, 🤿🐠 swimming, snorkelling, scuba, ⛵️ sailing and chilling on the beach 🏖
 <br>🍳I also love to cook and in my spare time I draw and I'm trying to learn Spanish
