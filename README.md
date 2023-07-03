@@ -29,10 +29,13 @@ I am a data scientist with a background in physics and managerial experience in 
 ## My projects:
 
 🔬 [Skin Cancer Detection](https://github.com/MNLKuzmin/SkinCancerDetection)
+CNN that predicts skin cancer, includes model explainability visuals and can be used to develop an app for doctors.
 
 🔋 [US Energy Generation](https://github.com/MNLKuzmin/USEnergy_Generation)
+Time series model that predicts production of electrical energy via natural gas for the next 3 years.
 
 🦠 [Covid-19 hospitalization predictor](https://github.com/MNLKuzmin/Covid-19-Hospitalization-Predictor)
+Model that predicts if a patient is at risk to be hospitalized to estimate hospitalization rate in another potential pandemic.
 <br>
 <br>
 
