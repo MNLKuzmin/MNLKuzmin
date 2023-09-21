@@ -16,13 +16,13 @@ I am a data scientist with a background in physics and managerial experience in 
 <br>
  
 ## Check out my blog posts:
-📊 [A defense of those poor outliers...](https://dev.to/mnlkuzmin/a-defense-of-those-poor-outliers-4a8d)
+📊 [A defense of those poor outliers...](https://medium.com/@marianlkuzmin/a-defense-of-those-poor-outliers-9969ca698c8f)
 
-⏦ [Use of Ploynomials in Linear Regression Analysis](https://dev.to/mnlkuzmin/use-of-polynomials-in-linear-regression-analysis-extension-to-linear-models-2636)
+⏦ [Use of Ploynomials in Linear Regression Analysis](https://medium.com/@marianlkuzmin/use-of-polynomials-in-linear-regression-analysis-extension-to-linear-models-a21b6d0c9112)
 
-🔬 [Explainability in Black-box models with LIME and activation layers](https://dev.to/mnlkuzmin/skin-cancer-detection-with-convolutional-neural-networks-3mh1)
+🔬 [Explainability in Black-box models with LIME and activation layers](https://medium.com/@marianlkuzmin/explainability-in-black-box-models-with-lime-and-activation-layers-9a58aa19b503)
 
-👩🏼‍🎓 [My experience at Flatiron School](https://dev.to/mnlkuzmin/my-experience-at-flatiron-school-4gj)
+👩🏼‍🎓 [My experience at Flatiron School](https://medium.com/@marianlkuzmin/my-experience-at-flatiron-school-b1e0bf60a4a1)
 <br>
 <br>
 
