@@ -3,17 +3,21 @@
 ### Hi there! I'm Maria 👋
 I am a data scientist with a background in physics and managerial experience in healthcare
 <br>👩‍💻 I bring to the table expertise in Python, Statistical Analysis, Machine Learning and Deep Learning. 
-<br>I am originally from Italy 🇮🇹 and moved to the United States 🇺🇸 about 8 years ago
+<br>I am originally from Italy 🇮🇹 and moved to the United States 🇺🇸 about 8 years ago.
 <br>
  
 #### 🧡 I love...
 🔍 to explore and learn from real world data, and anything that has to do with science and nature interests me.
-<br>🩺 In particular I would like to develop tools for healthcare, to improve the precision of tests, and therefore the level of care given to patients.
-<br>I love nature, the outdoors, 🏕 camping, 🪴 my plants, 🤿🐠 swimming, snorkelling, scuba, ⛵️ sailing and chilling on the beach 🏖
-<br>🍳I also love to cook and in my spare time I draw and I'm trying to learn Spanish
- (thanks to ![duo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white))
+<br>🩺 In particular I would like to develop tools for healthcare, to improve the precision of tests and therefore the level of care given to patients.
+<br>I love nature, the outdoors, 🏕 camping, 🪴 plants, 🐠snorkelling,🤿 scuba and ⛵️ sailing.
+<br>🍳I also love to cook and in my spare time I draw and I'm learning Spanish.
 <br>
 <br>
+
+#### 🔭 I’m currently working on ...
+A project about determining the prognosis of a patient based on a set of symptoms.
+<br> This is the link to my work in progress [project](https://github.com/MNLKuzmin/Symptoms).
+<br> This is where you can find the [dataset](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning/data) that I am using for the project.
  
 ## Check out my blog posts:
 📊 [A defense of those poor outliers...](https://medium.com/@marianlkuzmin/a-defense-of-those-poor-outliers-9969ca698c8f)
@@ -81,7 +85,7 @@ I am a data scientist with a background in physics and managerial experience in 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
