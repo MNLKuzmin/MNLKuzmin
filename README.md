@@ -1,7 +1,7 @@
 <img width="1129" alt="Screen Shot 2023-06-27 at 5 52 00 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/1baf478b-8d29-41d8-aad1-4585965da603">
 
 ### Hi there! I'm Maria 👋
-I am a data scientist with a background in physics and managerial experience in healthcare
+I am a data scientist with a background in physics and managerial experience in healthcare.
 <br>👩‍💻 I bring to the table expertise in Python, Statistical Analysis, Machine Learning and Deep Learning. 
 <br>I am originally from Italy 🇮🇹 and moved to the United States 🇺🇸 about 8 years ago.
 <br>
