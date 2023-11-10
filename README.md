@@ -13,11 +13,6 @@ I am a data scientist with a background in physics and managerial experience in 
 <br>🍳I also love to cook and in my spare time I draw and I'm learning Spanish.
 <br>
 
-### 🔨 I’m currently working on ...
-A project about determining the prognosis of a patient based on a set of symptoms.
-<br> This is the link to my work in progress [project](https://github.com/MNLKuzmin/Symptoms).
-<br> This is where you can find the [dataset](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning/data) that I am using for the project.
-<br>
 ## Check out my blog posts:
 📊 [A defense of those poor outliers...](https://medium.com/@marianlkuzmin/a-defense-of-those-poor-outliers-9969ca698c8f)
 
@@ -92,4 +87,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### 🔨 I’m currently working on ...
+A project about determining the prognosis of a patient based on a set of symptoms.
+<br> This is the link to my work in progress [project](https://github.com/MNLKuzmin/Symptoms).
+<br> This is where you can find the [dataset](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning/data) that I am using for the project.
+<br>
 -->
