@@ -58,7 +58,6 @@ To explore and learn from real world data, and anything that has to do with scie
 
 <img width="100" alt="Screen Shot 2023-06-27 at 6 07 33 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/76831f54-3488-42b3-be28-0311a371b1f2">
 <img width="100" alt="Screen Shot 2023-06-27 at 6 08 26 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/7e3e0a0a-b2d4-4adb-a6cd-3db9d1f44b40">
-<img width="100" alt="Screen Shot 2023-06-27 at 6 07 03 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/35263eb6-03a9-4cc1-a136-83fd815031a8">
 <img width="100" alt="Screen Shot 2023-06-27 at 6 09 22 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/b8071040-5cb8-477c-bb50-6cea9ae59cec">
 <img width="100" alt="Screen Shot 2023-06-27 at 6 10 00 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/cb5cfbdd-e031-4e0a-9d6f-1ffa80d5a2c2">
 <img width="100" alt="Screen Shot 2023-06-27 at 6 18 18 PM" src="https://github.com/MNLKuzmin/MNLKuzmin/assets/103147944/8882de04-5713-47c3-a1e5-9094fffe1837">
