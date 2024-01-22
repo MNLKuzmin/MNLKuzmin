@@ -2,15 +2,14 @@
 
 ### Hi there! I'm Maria 👋
 I am a data scientist with a background in physics and managerial experience in healthcare.
-<br>👩‍💻 I bring to the table expertise in Python, Statistical Analysis, Machine Learning and Deep Learning. 
-<br>I am originally from Italy 🇮🇹 and moved to the United States 🇺🇸 about 8 years ago.
+<br>I bring to the table expertise in Python, Statistical Analysis, Machine Learning and Deep Learning. 
+<br>I am originally from Italy and moved to the United States about 8 years ago.
 <br>
  
 #### 🧡 I love...
 🔍 to explore and learn from real world data, and anything that has to do with science and nature interests me.
-<br>🩺 In particular I would like to develop tools for healthcare, to improve the precision of tests and therefore the level of care given to patients.
-<br>I love nature, the outdoors, 🏕 camping, 🪴 plants, 🐠snorkelling,🤿 scuba and ⛵️ sailing.
-<br>🍳I also love to cook and in my spare time I draw and I'm learning Spanish.
+<br>I love nature, the outdoors, camping, plants and sailing.
+<br>I also love to cook and in my spare time I draw and I'm learning Spanish.
 <br>
 
 ## Check out my blog posts:
