@@ -7,7 +7,7 @@ I am a data scientist with a background in physics and managerial experience in 
 <br>
  
 #### 🧡 I love...
-🔍 to explore and learn from real world data, and anything that has to do with science and nature interests me.
+To explore and learn from real world data, and anything that has to do with science and nature interests me.
 <br>I love nature, the outdoors, camping, plants and sailing.
 <br>I also love to cook and in my spare time I draw and I'm learning Spanish.
 <br>
